@@ -1,0 +1,16 @@
+/* Stylesheet */
+
+/* Estilos del botón 'Favoritos' */
+.favourite-btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    top: 10px; 
+    border: none;
+    font-size: 13px; 
+}
